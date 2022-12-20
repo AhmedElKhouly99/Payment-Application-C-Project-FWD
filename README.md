@@ -6,4 +6,4 @@ This is a Payment Application Simulation project for the EgFWD Embedded Systems 
 
 ## Program Flow Chart
 Videos and screenshots will be found at link:
-https://drive.google.com/file/d/1y2gUvBzRU-t_T-MyaNF8Q4_hU3jwl7Ny/view?usp=sharing
+[https://drive.google.com/file/d/1y2gUvBzRU-t_T-MyaNF8Q4_hU3jwl7Ny/view?usp=sharing](https://drive.google.com/file/d/1JhkASJCmWHyTvYiUMV8mCEyieLgyXmvn/view?usp=share_link)
